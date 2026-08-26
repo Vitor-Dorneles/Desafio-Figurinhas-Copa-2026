@@ -19,7 +19,7 @@ Projeto acadêmico final do terceiro semestre (disciplina de Estruturas de Dados
 
 Requer Java 17+.
 
-##**Pelo terminal**
+## **Pelo terminal**
 ### Para compilar:
 javac -d out -sourcepath src/main/java src/main/java/figurinhas/app/Main.java
 
