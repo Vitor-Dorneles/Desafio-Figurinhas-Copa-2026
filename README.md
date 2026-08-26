@@ -19,8 +19,11 @@ Projeto acadêmico final do terceiro semestre (disciplina de Estruturas de Dados
 
 Requer Java 17+.
 
-**Pelo terminal**
-Para compilar: javac -d out -sourcepath src/main/java src/main/java/figurinhas/app/Main.java
-Para executar: java -cp out figurinhas.app.Main
+##**Pelo terminal**
+### Para compilar:
+javac -d out -sourcepath src/main/java src/main/java/figurinhas/app/Main.java
+
+### Para executar:
+java -cp out figurinhas.app.Main
 
 Execute a partir da raiz do projeto (os CSVs são lidos da pasta `dados/`).
